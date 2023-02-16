@@ -1,7 +1,7 @@
 ---
 title: "HCI Class"
 layout: category
-permalink: /categories/HCIclass/
+permalink: /categories/hciclass/
 author_profile: true
 taxonomy: HCIclass
 sidebar:
