@@ -1,13 +1,13 @@
 ---
 title: "[IT 403] Probability"
-excerpt: "Statistics and Data Analysis"
+excerpt: "Week 7 class subject of IT 403 Statistics and Data Analysis"
 
 categories:
   - hciclass
 tags:
   - [depaul, hci, IT403, statistic, data]
 
-permalink: /hciclass/probability/
+permalink: categories/hciclass/probability/
 
 toc: true
 toc_sticky: true
