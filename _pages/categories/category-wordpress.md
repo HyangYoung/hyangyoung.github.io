@@ -1,5 +1,5 @@
 ---
-title: "Categories3"
+title: "Wordpress"
 layout: category
 permalink: /categories/wordpress/
 author_profile: true
