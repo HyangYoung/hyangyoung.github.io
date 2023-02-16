@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
+    url: https://hyangyoung.github.io/
 
   - title: "About"
     url: /about/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/hyangyoung
 
   # - title: "Projects"
   #   url: /projects/
@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Categories1"
-    url: /categories/categories1/
+    url: /categories/javascript/
   - title: "Categories2"
-    url: /categories/categories2/
+    url: /categories/algorithm/
   - title: "Categories3"
-    url: /categories/categories3/
+    url: /categories/wordpress/
   - title: "Categories4"
-    url: /categories/categories4/
+    url: /categories/hciclass/
