@@ -1,8 +1,11 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi all! I'm Young👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+I love to visualize the idea.
+I work to move beyond visual satisfaction using coding and computer graphic.
+
+
