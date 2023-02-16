@@ -1,7 +1,7 @@
 ---
 title: "Categories3"
 layout: category
-permalink: /categories/Wordpress/
+permalink: /categories/wordpress/
 author_profile: true
 taxonomy: Wordpress
 sidebar:
