@@ -16,24 +16,15 @@ date: 2023-02-16
 last_modified_at: 2023-02-16
 ---
 
-## 🦥 Introduction to Probability
+## 🦥 Probability Rule
 
+New Probability Rule: The Multiplication Rule (For Independent)
+1. A probability value is a number between 0 (the event will never happen) to 1 (the event is guaranteed to happen).
+2. The sum of all the probabilities in the sample space must be exactly 1.
+3. The complement of some event A refers to an event in which A does not occur and is equal to 1-P(A): P(A c ) = 1-P(A)
+4. If two events A and B are disjoint, then the probability that event A occurs OR event B occurs is the sum of their individual probabilities. 
+5. The probability of some event A occurring AND another event B occurring is the product of their individual probabilities.
 
-Essentially probability is the chance of something happening(likelihood of an event occurring).
-
-When dealing with uncertain events, we are seldom satisfied by simply knowing whether an event is likely or unlikely.
-
-$P(x) = \frac{Preferred outcomes}{Sample Space}$
-
-If two events are independent:
-The probability of them occurring simultaneously equals the product of them occurring on their own.
-$P(A') = P(A) . P(')$
-
-- Trial – Observing an event occur and recording the outcome.
-- Experiment – A collection of one or multiple trials.
-- Experimental Probability – The probability we assign an event, based on an experiment we conduct.
-- Expected value – the specific outcome we expect to occur when we run an experiment.
-> Expected value for categorical variables: $E(X) = n X p $
-
-> Expected value for numeric variables:
-$E(X) = \displaystyle\sum_{i=1}{n}{xi X pi}$
+   - P(A and B) = P(A) * P(B)
+   - This rule only applies if the two events are “independent”.
+   - This rule can be applied to more than two events, e.g., P(A and B and C and D). However, again, all of the events must be independent.
