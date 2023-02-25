@@ -7,13 +7,13 @@ categories:
 tags:
   - Javascript, Variable
 
-permalink: categories/javascript/expression_evaluate
+permalink: categories/javascript/expression_and+statement
 
 toc: true
 toc_sticky: true
 
-date: 2023-02-21
-last_modified_at: 2023-02-21
+date: 2023-02-24
+last_modified_at: 2023-02-24
 ---
 
 ## 5.1 값
