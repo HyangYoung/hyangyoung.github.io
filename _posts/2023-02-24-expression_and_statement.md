@@ -7,7 +7,7 @@ categories:
 tags:
   - Javascript, Variable
 
-permalink: categories/javascript/variable
+permalink: categories/javascript/expression_evaluate
 
 toc: true
 toc_sticky: true
