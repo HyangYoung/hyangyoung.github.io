@@ -32,7 +32,7 @@ var sum = 10 + 20;
 - `리터럴(Literal)` : 사람이 이해할 수 있는 무자 또는 약속된 기호를 사용해 값을 생성하는 표기법(notation). 자바스크립트 엔진은 코드가 실행되는 시험인 런타임에 리터럴을 평가해 값을 생성. 
 
 ### 리터럴 사용하면 다음과 같은 data type의 값을 생성
-<img src="img/literal.png">
+<img src="../assets/images/posts_img/literal.png">
 
 ---
 
