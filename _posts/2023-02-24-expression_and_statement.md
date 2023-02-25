@@ -1,6 +1,6 @@
 ---
-title: "5장 변수"
-excerpt: "책 모던 자바스크립트 Deep Dive 스터디 5장 요약입니다."
+title: "5장 표현식과 문"
+excerpt: "모던 자바스크립트 Deep Dive 스터디 5장 요약입니다."
 
 categories:
   - Javascript
