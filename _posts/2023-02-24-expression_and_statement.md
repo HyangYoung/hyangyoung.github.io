@@ -1,5 +1,5 @@
 ---
-title: "5장 표현식과 문"
+title: "[Javascript] 5장 표현식과 문"
 excerpt: "모던 자바스크립트 Deep Dive 스터디 5장 요약입니다."
 
 categories:
