@@ -2,10 +2,7 @@
 title: "[Javascript] 9장 제어문"
 excerpt: "블록문, 조건문 (if else, switch), 반복문(for, while, do while), break, continue 문"
 
-categories:
-- Javascript
-  tags:
-- [Javascript]
+categories:Javascript
 
 permalink: categories/javascript/control/
 
